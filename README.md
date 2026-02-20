@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-<h3>Name: Parshithkumar S
-<h3>Register Number: 212224080044
+<h3>Name: MAGESHRAJ P
+<h3>Register Number: 212224250010
   
 ### AIM :
   To solve Implementation of Classical Planning Algorithm using python
